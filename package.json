@@ -1,0 +1,20 @@
+{
+  "name": "urban-toy",
+  "version": "1.0.0",
+  "description": "> Git-Flow와 git 컨벤션을 적용한 채팅 토이 프로젝트를 만들어봅시다.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/deeeeno/urban-toy.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/deeeeno/urban-toy/issues"
+  },
+  "homepage": "https://github.com/deeeeno/urban-toy#readme"
+}
